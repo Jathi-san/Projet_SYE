@@ -1,14 +1,17 @@
 Pour ce projet nous avons utilier deux modules :
 matplotlib et networkx, elles vont nous servir pour creer et afficher des graphes
 
-si vous rencontrez des difficulter pour executer le code, faire les demarches suivantes :
+Toutefois nous avons rencontré des difficulte pour executer le code directement (à savoir que nous étions tous
+les 2 sur des PC windows)
+
+Voici les demarches que nous avons effectué pour pallier à ce problème :
 
 dans vsCode ouvrir un powershell et lancer la commande suivante :
-  python -m venv nom_env
+  python -m venv nom_env      
   ensuite :
-  .\nom_env\Scripts\activate
+  .\nom_env\Scripts\activate  
 
-  Si vous etes sous linux :
+  La commande equivalente sous linux est la suivante :
   source <chemin_vers_votre_env>/bin/activate
 
   En sassurant d'avoir les autorisations nécessaires 
