@@ -31,3 +31,5 @@ Relancer vscode avant execution du programme
 
 Nous avons creer un environnement virtuel d'execution puis on l'a activé et dans cet enironnement on a installer les 2 modules
 ainsi nous n'aurons plus de difficulter a executer notre code
+
+Dans le fichier test il y a deja des exemples de systemes pour lesquelles vous pouvez executer les fonctions
