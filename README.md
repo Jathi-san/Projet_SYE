@@ -1,3 +1,5 @@
+PROJET: automatiser la parallélisation maximale de systèmes de tâches!
+
 Pour ce projet nous avons utilier deux modules :
 matplotlib et networkx, elles vont nous servir pour creer et afficher des graphes
 
